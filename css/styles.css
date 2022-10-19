@@ -57,7 +57,6 @@ nav a:hover{
   top: 0;
   left: 0;
   padding: 6px;
-  -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
   position: absolute;
